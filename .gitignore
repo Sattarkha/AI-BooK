@@ -1,0 +1,174 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env*
+requirements/*.txt
+node_modules/
+jspm_packages/
+
+# Testing
+coverage/
+.nyc_output/
+*.lcov
+.pytest_cache/
+.coverage*
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pip_log.txt
+.npm/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for web assets
+.sass-cache/
+connect.lock
+.nodemonignore
+.happypack/
+
+# Coverage directory used by tools like istanbul
+coverage/
+lib-cov/
+
+# Grunt intermediate storage
+.grunt
+
+# Bower dependency directory
+bower_components/
+
+# node-waf build directory
+.wafpickle-N
+
+# JetBrains IDEs (IntelliJ/PyCharm/WebStorm/CLion)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python
+*.pyc
+__pycache__/
+*.so
+.Python
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage.*
+.nox/
+
+# Docusaurus
+.docusaurus/
+build/
+.cache/
+
+# Backend
+backend/__pycache__/
+backend/*.pyc
+backend/venv/
+backend/.venv/
+backend/env/
+backend/.env*
+
+# Database
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Local configuration
+.local/
+config/
+*.local
+
+# IDE
+.vs/
+*.swp
+*.swo
+*~
+
+# Secrets
+secrets/
+secret/
+*.key
+*.pem
+*.crt
+*.cert
+*.p12
+*.jks
+
+# Distribution / packaging
+*.tar
+*.zip
+*.rar
+*.7z
+
+# Environment
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js
+.next/
+out/
+
+# Nuxt.js
+.nuxt/
+dist/
+
+# Vue.js
+dist/
+dist-ssr/
+*.vuepress/dist
+
+# Build outputs
+dist/
+build/
+target/
+*.min.js
+*.min.css
+
+# IDE generated files
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
